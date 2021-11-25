@@ -1,4 +1,4 @@
-# red_egresados cripto compact
+# red_egresados crypto compact
 
 A new Flutter project.
 
